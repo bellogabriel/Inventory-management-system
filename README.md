@@ -13,4 +13,5 @@ A simple program that uses CRUD to manage the items in a store place. This was o
 ---
 
 ## 📂 Folder Structure
+There are no folders in this work, just the notebook file
 
