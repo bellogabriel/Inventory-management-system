@@ -13,9 +13,9 @@ A simple program that uses CRUD to manage the items in a store place. This was o
 ---
 
 ## 🛠️ Tools & Technologies
-- 🐍 Python
-- 📊 pandas
-- 💻 Jupyter Notebook
+- 🐍 Python | 💻 Jupyter Notebook
+- 📊 pandas | Dataframe for viewing the inventory
+
 
 
 
